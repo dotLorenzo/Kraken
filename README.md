@@ -2,7 +2,7 @@
 
 CLI program written in Go to trade cryptocurrencies using the Kraken API
 
-# # Usage
+## Usage
 ```
 go build .
 ```

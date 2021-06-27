@@ -18,6 +18,10 @@ Buy 50GBP of BTC at the market rate
 ```
 ./kraken --buy 50
 ```
+Buy without confirmation
+```
+./kraken --buy 50 --noconfirmation
+```
 Check Kraken balance
 ```
 ./kraken --balance 

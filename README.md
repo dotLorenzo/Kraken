@@ -14,7 +14,7 @@ Todays BTC price in GBP
 ```
 ./kraken --price
 ```
-Buy 50GBP of BTC
+Buy 50GBP of BTC at the market rate
 ```
 ./kraken --buy 50
 ```

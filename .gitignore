@@ -1,3 +1,5 @@
 .env
 kraken.sh
 kraken
+logs/*
+parse_logs/stats.pkl

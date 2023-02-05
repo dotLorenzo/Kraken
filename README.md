@@ -1,6 +1,7 @@
 # Kraken
 
-CLI program written in Go to trade cryptocurrencies using the Kraken API
+1) CLI program written in Go to trade cryptocurrencies using the Kraken API
+2) Scripts in ```parse_logs/``` parse a log file of crypto purchases in ```logs/``` to produce stats and visual plots (See jupyter notebook) to inform future trading decisions. See example log file in ```logs/```. 
 
 ## Usage
 ```
@@ -26,3 +27,10 @@ Check Kraken balance
 ```
 ./kraken --balance 
 ```
+
+### Usage
+
+To run the log parser:
+
+See ```python parse_logs/main.py --help```
+

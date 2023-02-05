@@ -1,0 +1,18 @@
+Quantity of BTC to be bought for 5 GBP: 0.00021056885655009448
+{"error":["Insufficient funds"],"result":{"descr":{"order":"buy 0.00021056 XBTGBP @ market"},"txid":["XXXXXX-XXXXXX-XXXXXX"]}}
+Sun Jun 27 17:25:05 BST 2021
+---------------------------------------------
+Quantity of BTC to be bought for 100 GBP: 0.0028837050682451733
+{"error":[],"result":{"txid":["XXXXXX-XXXXXX-XXXXXX"],"descr":{"order":"buy 0.00288370 XBTGBP @ market"}}}
+Balance:
+{"error":[],"result":{"ZGBP":"470.2864","XXBT":"0.0891158900","XETH":"0.5317400000","XXMR":"2.2489900000"}}
+Thu 16 Sep 2021 16:05:09 AST
+---------------------------------------------
+Quantity of BTC to be bought for 140 GBP: 0.008114021315489947
+{"error":[],"result":{"txid":["XXXXXX-XXXXXX-XXXXXX"],"descr":{"order":"buy 0.00811402 XBTGBP @ market"}}}
+Fri 16 Sep 2022 21:41:18 BST
+---------------------------------------------
+Quantity of BTC to be bought for 40 GBP: 0.0022343186583471905
+{"error":[],"result":{"txid":["XXXXXX-XXXXXX-XXXXXX"],"descr":{"order":"buy 0.00223431 XBTGBP @ market"}}}
+Fri  7 Oct 2022 00:12:25 BST
+---------------------------------------------

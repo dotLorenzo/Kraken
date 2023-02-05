@@ -28,7 +28,7 @@ Check Kraken balance
 ./kraken --balance 
 ```
 
-### Usage
+### Log Parser
 
 To run the log parser:
 
